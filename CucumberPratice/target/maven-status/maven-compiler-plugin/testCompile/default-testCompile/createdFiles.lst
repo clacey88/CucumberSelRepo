@@ -1,0 +1,9 @@
+Models/UserManager.class
+Models/User.class
+Features/runner/TestRunner.class
+Pages/HomePage.class
+Base/LoginStep.class
+Pages/LoginPage.class
+Base/BaseUtli.class
+Steps/AutoPracStep.class
+Steps/Hook.class
